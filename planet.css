@@ -1,0 +1,63 @@
+body{
+    background-image: url(/planets/solar\ background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    /* position: relative; */
+   
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.globe {
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    margin-top: 570px;
+}
+.jupiter {
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    margin-top: 450px;
+}
+.neptune {
+    height: 90px;
+    width: 90px;
+    position: absolute;
+    margin-top: 330px;
+}
+.mars {
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    margin-top: 280px;
+}
+.sun {
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    margin-top: 230px;
+}
+.saturn {
+    height: 130px;
+    width: 130px;
+    position: absolute; 
+    margin-top: 130px;
+}
+.space {
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    margin-top: 90px;
+}
+.uranus {
+    height: 110px;
+    width: 110px;
+    position: absolute;
+    margin-top: 0px;
+    
+}  
